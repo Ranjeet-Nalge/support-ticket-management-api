@@ -1,4 +1,4 @@
-# Support Ticket System
+# Support Ticket Management API
 
 A RESTful Support Ticket Management System built with Django REST Framework.
 

@@ -143,7 +143,6 @@ Example request body:
     "description": "Unable to login to the application",
     "status": "Open",
     "priority": "High",
-    "reported_by": 1,
     "assigned_to": 2
 }
 ```
@@ -384,4 +383,4 @@ The project demonstrates:
 * Docker and Docker Compose
 
 ## Author
-` Ranjeet Tanajirao Nalge `
+`Ranjeet Tanajirao Nalge`
